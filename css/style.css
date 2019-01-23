@@ -1,0 +1,14 @@
+/* Background-nav-footer*/
+
+.bg-color-cofee {
+  background-color: #632100; 
+}
+/* color-link */
+.text-cream {
+  color: #f9e2c5;
+}
+
+.text-cream:hover {
+  color: #b59672;
+  transition: 0.3s;
+}
