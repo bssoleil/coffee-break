@@ -12,3 +12,9 @@
   color: #b59672;
   transition: 0.3s;
 }
+
+.bg-coffee-break{
+  background-image: url(../img/bg-section-index.jpg); 
+  background-size: cover;
+  height: 100vh;
+}
