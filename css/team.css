@@ -1,0 +1,23 @@
+/*-------------------- CSS NAVBAR ------------------------*/
+.bg-color-cofee {
+    background-color: #632100; 
+}
+
+.text-cream {
+    color: #f9e2c5;
+}
+  
+.text-cream:hover {
+    color: #b59672;
+    transition: 0.3s;
+}
+
+/*---------------------------- CSS TEAM ---------------------*/
+.p-0 {
+    padding: 0;
+}
+img {
+    width: 100%;
+    height: 100%;
+}
+
