@@ -1,1 +1,2 @@
-# coffee-break
+# coffee-break    
+![screenshot](img/screenshot-coffee-break.png)
